@@ -7,7 +7,3 @@
 # Editors
 .vscode/
 .idea/
-
-# sponsorship-manager: private deal data (floor rates, brand no-go list, past-deal lessons)
-sponsorship-manager/references/voice-and-rules.md
-sponsorship-manager/references/lessons-from-past-deals.md
