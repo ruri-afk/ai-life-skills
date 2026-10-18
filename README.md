@@ -7,6 +7,8 @@ A collection of skills I use with Claude Code to improve my life in various ways
 - [`summarize/`](./summarize) — drop in a YouTube video, article, PDF, EPUB, or podcast and it writes a summary note into your vault with wikilinks to every person and concept mentioned. Asks detailed vs minimal mode on each run — detailed creates reference notes for every wikilink, minimal leaves them dangling and saves ~85% tokens.
 - [`summarize-call/`](./summarize-call) — drop in a call recording (video or audio) and it transcribes with speaker labels, summarizes, and writes a call note + transcript + person notes for the participants. Same detailed / minimal mode as `summarize`.
 
+- [`sponsorship-manager/`](./sponsorship-manager) — *(in progress)* a sponsorship & brand-partnership manager for creators. So far: a sourced negotiation playbook (pricing, rights multipliers, tactics, outreach, contracts, FTC, scams, platforms). Private numbers live in a gitignored `voice-and-rules.md`.
+
 (more coming) (daily brief, daily news)
 
 ## Install — easy mode
